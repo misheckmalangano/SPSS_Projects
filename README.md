@@ -40,6 +40,7 @@ Factor Analysis is a technique used to identify underlying relationships between
 -Identifying hidden variables that explain the data that is being observed.
 
 Factor analysis can help in
+
 -Reducing complexity in data variables.
 
 -Enhances predictive models.
