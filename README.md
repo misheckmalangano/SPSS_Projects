@@ -17,13 +17,17 @@ Importance-Performance Analysis(IPA) is an organization's strategic tool to asse
 
 Importance of Performance Analysis
 - It helps to identify areas of improvement
+  
 - It is easy to understand stakeholders
+  
 - Enhances customer satisfaction.
+  
 
 # 2. Multi-dimensional Scaling
 Multidimensional scaling is a technique used to visualize similarities and dissimilarities of different data points and represent them in a geometric space.  It  helps in 
 
 -Identifying clusters of similar objects.
+
 -Understanding perceptions in consumer behavior.
 
 MDS Simplifies complex data and reveals some hidden patterns.
@@ -32,18 +36,23 @@ MDS Simplifies complex data and reveals some hidden patterns.
 Factor Analysis is a technique used to identify underlying relationships between variables.  It helps in reducing large sets of variables into fewer factors that are easily understood and interpreted.
 
 -It is used when you reduce suspicion that there is a correlation between variables, and such variables can be grouped together.
+
 -Identifying hidden variables that explain the data that is being observed.
 
 Factor analysis can help in
 -Reducing complexity in data variables.
+
 -Enhances predictive models.
 
 # 4. Reliability Analysis
 Reliability analysis is a tool that is used to assess and measure the consistency of a text, scale, or measurement instrument. It is the consistency and stability of the tool. The primary measure of reliability uses Cronbach's Alpha. In SPSS,
 
 -It ensures it portrays good reliability >=0.7
+
 -The matrix also shows how each item correlates with each other.
+
 -It ensures consistency in measurement.
+
 -Improves validity of results.
 
 # Tools Used.
